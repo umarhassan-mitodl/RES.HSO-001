@@ -1,0 +1,41 @@
+{
+  "term": "",
+  "year": "",
+  "level": [
+    "High School"
+  ],
+  "topics": [
+    [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "k-12-stem-lesson-plans"
+  },
+  "course_image": {
+    "content": "707da6dc-5076-4dbf-9c59-3a1dc62c9a3e",
+    "website": "k-12-stem-lesson-plans"
+  },
+  "course_title": "MIT Haystack Observatory K\u201312 STEM Lesson Plans ",
+  "hide_download": true,
+  "course_description": "At the [MIT Haystack Observatory](https://www.haystack.mit.edu/), researchers use several basic science concepts every day. Electromagnetic waves, optics, and molecular chemistry are just a few of the core topics that can be incorporated into the high school science curriculum by exploring the atmosphere and the universe with lessons focused around the research specialties at Haystack.\n\nThe original material presented here was developed by teachers, with the assistance of the staff at Haystack. All lesson plans have been successfully used in high school classrooms. These lessons have been prepared with specific attention to the goals and objectives of current science curricula. The object is to create lessons that will enhance your class, not require you to add substantial material.\n\nThe development of these educational materials at the Haystack Observatory was funded by the National Science Foundation under the Research Experiences for Teachers (RET) program.",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.HSO-001",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "k-12-stem-lesson-plans"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments",
+    "Projects"
+  ],
+  "site_uid": "8d93c38e-470a-4e25-8622-082ee4abe114",
+  "site_short_id": "RES.HSO-001",
+  "site_url_path": "courses/res-hso-001-mit-haystack-observatory-k12-stem-lesson-plans"
+}
