@@ -7,7 +7,8 @@ file_size: 236856
 file_type: image/jpeg
 image_metadata:
   caption: The huge radio telescope and radome at the MIT Haystack Observatory in
-    Westford, MA. ([Image is in the public domain.](https://en.wikipedia.org/wiki/Haystack_Observatory#/media/File:Haystack_Radio_Telescope_-_Haystack_Observatory_-_DSC04026.JPG))
+    Westford, MA. ({{% resource_link "3074e865-1b1c-4c7f-a4df-6864049187ee" "Image
+    is in the public domain." %}})
   credit: Image is in the public domain.
   image-alt: 'A huge white dome stands behind a small one story building. '
 learning_resource_types: []
